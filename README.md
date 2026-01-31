@@ -27,3 +27,29 @@ Spreadsheet updates with status
 ## 🧠 Architecture
 
 Sheets → Transcript API → Text Processing → Gemini → LinkedIn → Update Sheet
+
+## ▶️ Setup Instructions
+
+Import blueprint JSON into Make.com
+
+Add your API keys
+
+Connect Google + LinkedIn
+
+Run the scenario
+
+Paste video links in sheet
+
+Done 🎉
+
+## 💡 Use Case
+
+Perfect for:
+
+content creators
+
+marketers
+
+personal branding
+
+automating social media
